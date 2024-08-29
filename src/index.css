@@ -1,0 +1,11 @@
+.app-container {
+    display: flex;
+    height: 100vh;
+    font-family: 'Arial, sans-serif';
+  }
+  
+  input {
+    margin: 0 10px;
+    padding: 5px;
+  }
+  
