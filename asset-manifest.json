@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Danielsmith4hD/menu-designer/static/css/main.5e2bd01d.css",
-    "main.js": "/Danielsmith4hD/menu-designer/static/js/main.b118d19b.js",
-    "index.html": "/Danielsmith4hD/menu-designer/index.html",
-    "main.5e2bd01d.css.map": "/Danielsmith4hD/menu-designer/static/css/main.5e2bd01d.css.map",
-    "main.b118d19b.js.map": "/Danielsmith4hD/menu-designer/static/js/main.b118d19b.js.map"
+    "main.css": "/menu-designer/static/css/main.5e2bd01d.css",
+    "main.js": "/menu-designer/static/js/main.b118d19b.js",
+    "index.html": "/menu-designer/index.html",
+    "main.5e2bd01d.css.map": "/menu-designer/static/css/main.5e2bd01d.css.map",
+    "main.b118d19b.js.map": "/menu-designer/static/js/main.b118d19b.js.map"
   },
   "entrypoints": [
     "static/css/main.5e2bd01d.css",
