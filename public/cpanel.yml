@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mcl617ypfkft/public_html/menu-designer
+    - /bin/cp -r * $DEPLOYPATH/
